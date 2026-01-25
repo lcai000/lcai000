@@ -1,6 +1,6 @@
 >16. Austin TX. I like to make stuff
 ## About Me
-Hi, I’m Landon Cai. I’m a developer with a focus on full-stack applications, 3D modeling, and AI integration.
+ai is cool
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

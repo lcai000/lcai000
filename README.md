@@ -19,8 +19,8 @@ ai is cool
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-%23007ACC?style=for-the-badge&logo=fusion-360&logoColor=white)
 
 ## Projects / Currently Working On
-- **[Chronomind](https://www.chronomind.org)**: Interactive Dementia Caregiver Simulation App — React Native + Express.js + OpenAI Library
 - **[Invasiscan](https://www.invasiscan.org)**: Invasive Plant Identifier + Researcher Portfolio — Python FastAPI + OpenAI Library + PyTorch
+- **[Chronomind](https://www.chronomind.org)**: Interactive Dementia Caregiver Simulation App — React Native + Express.js + OpenAI Library
 - **[Javabyte](https://apps.apple.com/us/app/javabyte/id6757362923)**: AP Computer Science A Multiple Choice Studying App — React Native
  
 ## Contact

@@ -1,8 +1,6 @@
 >16. Austin TX. I like to make stuff
-## About Me
-ai is cool
 
-## Tech Stack
+## Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -18,10 +16,7 @@ ai is cool
 ![Onshape](https://img.shields.io/badge/Onshape-FF0000?style=for-the-badge&logo=onshape&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-%23007ACC?style=for-the-badge&logo=fusion-360&logoColor=white)
 
-## Projects / Currently Working On
-- **[Invasiscan](https://www.invasiscan.org)**: Invasive Plant Identifier + Researcher Portfolio — Python FastAPI + OpenAI Library + PyTorch
-- **[Chronomind](https://www.chronomind.org)**: Interactive Dementia Caregiver Simulation App — React Native + Express.js + OpenAI Library
-- **[Javabyte](https://apps.apple.com/us/app/javabyte/id6757362923)**: AP Computer Science A Multiple Choice Studying App — React Native
- 
-## Contact
-- GitHub: [@lcai000](https://github.com/lcai000)
+## Actively working on
+- **[Invasiscan](https://www.invasiscan.org)**: Invasive plant identification & documentation
+- **[Chronomind](https://github.com/lcai000/chronomind)**: Dementia Caregiver Simulation App — Diamond Challenge Semifinalist
+- **[Javabyte](https://apps.apple.com/us/app/javabyte/id6757362923)**: AP CSA studying app - App Store iOS

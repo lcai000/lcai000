@@ -1,4 +1,4 @@
->16. Austin TX. I like to make stuff
+>16. Austin TX.
 
 ## Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -10,6 +10,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+## Dev tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-2EC866?style=for-the-badge&logo=render&logoColor=white)
@@ -17,6 +18,5 @@
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-%23007ACC?style=for-the-badge&logo=fusion-360&logoColor=white)
 
 ## Actively working on
-- **[Invasiscan](https://www.invasiscan.org)**: Invasive plant identification & documentation
-- **[Chronomind](https://github.com/lcai000/chronomind)**: Dementia Caregiver Simulation App — Diamond Challenge Semifinalist
-- **[Javabyte](https://apps.apple.com/us/app/javabyte/id6757362923)**: AP CSA studying app - App Store iOS
+- **[Billion](https://www.billion-news.app)**: Making government actions: bills, orders, cases accessible
+- **[Chronomind](https://github.com/lcai000/chronomind)**: Improving simulations for dementia caregiving scenarios

@@ -16,7 +16,3 @@
 ![Render](https://img.shields.io/badge/Render-2EC866?style=for-the-badge&logo=render&logoColor=white)
 ![Onshape](https://img.shields.io/badge/Onshape-FF0000?style=for-the-badge&logo=onshape&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-%23007ACC?style=for-the-badge&logo=fusion-360&logoColor=white)
-
-## Actively working on
-- **[Billion](https://www.billion-news.app)**: Making government actions: bills, orders, cases accessible
-- **[Chronomind](https://github.com/lcai000/chronomind)**: Improving simulations for dementia caregiving scenarios

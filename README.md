@@ -1,4 +1,4 @@
-Building [Atheene](https://atheene.com) — the app that makes government actions actually understandable.
+Building [Atheene](https://atheene.com) — U.S. Congress Bills & Executive Orders summarized in plain English, without the jargon.
 
 My Stack:
 ##
